@@ -1,0 +1,9 @@
+.header-container {
+    background-color: black;
+    height: 11vh;
+    text-align: right;
+}
+
+.header-container>button {
+    margin: 1.5% 2% 0 0;
+}
